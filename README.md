@@ -13,7 +13,15 @@ The ultimate goal of this research to quantify the extent to which social media 
 
 ## Investigators
 
-* Pierre Mishra, Masters of Environmental Management, 2021, Nicholas School of the Environment, Duke University
-* Pierre Mishra, Masters of Environmental Management, 2021, Nicholas School of the Environment, Duke University
-* Pierre Mishra, Masters of Environmental Management, 2021, Nicholas School of the Environment, Duke University
+* Longyi Yang (Jacob), Environmental Economics & Policy, Masters of Environmental Management, 2021, NSOE
+* Prashank Mishra (Pierre), Water Resources Management, Masters of Environmental Management, 2021, NSOE
+* Thi Thuy Ha Do (Ha), Environmental Economics & Policy, Masters of Environmental Management, 2021, NSOE
 
+## Clients
+
+* Michael Paul, Senior Scientist, Director, TetraTech
+* Kateri Salk, Aquatic Ecologist, TetraTech
+
+## Faculty Advisor
+
+* James Heffernan (Jim), Associate Professor of Ecosystem Ecology and Ecohydrology, NSOE
