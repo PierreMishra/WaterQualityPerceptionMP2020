@@ -1,3 +1,2 @@
 # Water Quality Perception MP 2020
-### Nicholas University
-### Duke University
+### Nicholas School of the Environment, Duke University, NC
