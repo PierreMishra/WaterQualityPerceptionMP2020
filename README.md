@@ -27,8 +27,8 @@ The ultimate goal of this research to quantify the extent to which social media 
 
 ## Clients
 
-* Michael Paul, Senior Scientist, Director, TetraTech
 * Kateri Salk, Aquatic Ecologist, TetraTech
+* Michael Paul, Senior Scientist, Director, TetraTech
 
 ## Faculty Advisor
 
