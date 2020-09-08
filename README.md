@@ -16,9 +16,7 @@ The ultimate goal of this research to quantify the extent to which social media 
 1. Determine potential data sources relating to public perception of water quality  
 2. Acquire public perception data on water quality using web scraping tools (e.g., Google Analytics, Twitter API)  
 3. Analyze public perception data for the states of North Carolina and Utah using techniques such as sentiment analysis, spatial analysis, and time-series analysis  
-
 4. Characterize the types of data, pros, and cons of different search engines and social media platforms for public perception analysis  
-
 5. Compare public perception data (e.g., visitation, sentiments) to quantitative water quality data from state agencies and the Environmental Protection Agency’s CyAN app. 
 
 ## Investigators
