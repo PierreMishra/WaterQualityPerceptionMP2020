@@ -1,5 +1,5 @@
 # Water Quality Perception MP 2020
-### Nicholas School of the Environment, Duke University, NC
+### Nicholas School of the Environment (NSOE), Duke University, NC
 
 ## Objective
 
