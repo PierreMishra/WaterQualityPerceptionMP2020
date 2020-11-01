@@ -53,28 +53,3 @@ data = pd.concat([tweet_loc,hastag])
 data.to_csv(r'C:\Users\chuon\Desktop\tweet.csv')
 
 
-
-
-
-'''
-#list of twwet
-tweets = tw.Cursor(api.search,
-                       q=new_search,
-                       lang="en",
-                       since=date_since).items(5)
-
-tweet_text1 = [tweet.text for tweet in tweets]
-
-
-
-new_search = "climate+change -filter:retweets"
-
-tweets = tw.Cursor(api.search,
-                   q=new_search,
-                   lang="en",
-                   since='2018-04-23').items(1000)
-
-all_tweets = [tweet.text for tweet in tweets]
-all_tweets[:5]
-'''
-    
